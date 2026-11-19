@@ -1,0 +1,6 @@
+mlflow.db
+mlruns/
+mlartifacts/
+data/processed/features.parquet
+data/processed/test_data.csv
+data/processed/*.pkl
